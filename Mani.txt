@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi mani
 =======
 ceo mani
 >>>>>>> 6ff2b08298d7998a872ab9fdc404d35e0e24a746
+=======
+ceo mani
+king mani
+>>>>>>> 8cecae2b1061cd06f277889aaca8a9c576698e57
