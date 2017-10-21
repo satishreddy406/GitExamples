@@ -17,8 +17,18 @@ Hihhhasdasdsad
 Hihhhfsdfsdf
 hello
 <<<<<<< HEAD
+<<<<<<< HEAD
 welcome krivis
 
 =======
 >>>>>>> 204abb1c3707f51d82cd34735066643faa5b4599
 >>>>>>> 8854617959e500dcc565b6c70100d8458351571a
+=======
+
+
+
+dhasdhasdhasdjh
+=======
+>>>>>>> 204abb1c3707f51d82cd34735066643faa5b4599
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 29c1d428933318dc14eccd66aa9e3d4adee5da93
