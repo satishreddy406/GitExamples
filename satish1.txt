@@ -27,13 +27,18 @@ welcome krivis
 =======
 =======
 Hiiii
+<<<<<<< HEAD
 >>>>>>> 4dd915d919600d183cf508f2cfb9f0f1f2659cd9
 
+=======
+dasdsadsad
+>>>>>>> ff262d1ed84ff400fc7876d0e1e3dcfebe4f1e5e
 dsdasdasd
 Hi Pavan
 cxczxcxz
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 dhasdhasdhasdjh
 =======
@@ -42,3 +47,6 @@ dhasdhasdhasdjh
 >>>>>>> 29c1d428933318dc14eccd66aa9e3d4adee5da93
 =======
 >>>>>>> 4dd915d919600d183cf508f2cfb9f0f1f2659cd9
+=======
+adasdasdsadsad
+>>>>>>> ff262d1ed84ff400fc7876d0e1e3dcfebe4f1e5e
