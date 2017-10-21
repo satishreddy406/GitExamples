@@ -1,3 +1,7 @@
 Hiiii
+<<<<<<< HEAD
 
 Hi Pavan
+=======
+hello satesh sir
+>>>>>>> a1cfd7e31911d8f4aa6c797b52921c08f9d78b3a
