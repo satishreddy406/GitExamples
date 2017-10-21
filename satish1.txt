@@ -1,6 +1,26 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hihhh
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Hihhh
+hello
+=======
+Hihhhasdasdsad
+>>>>>>> Stashed changes
+=======
+Hihhhasdasdsad
+>>>>>>> Stashed changes
+>>>>>>> 2ef34c931e13bb766576bfbb88428bd67d3e455e
+=======
 Hihhhfsdfsdf
 hello
+<<<<<<< HEAD
 
 
 
 dhasdhasdhasdjh
+=======
+>>>>>>> 204abb1c3707f51d82cd34735066643faa5b4599
+>>>>>>> refs/remotes/origin/master
