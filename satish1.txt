@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 Hihhh
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Hihhh
+hello
+=======
+Hihhhasdasdsad
+>>>>>>> Stashed changes
+=======
+Hihhhasdasdsad
+>>>>>>> Stashed changes
+>>>>>>> 2ef34c931e13bb766576bfbb88428bd67d3e455e
